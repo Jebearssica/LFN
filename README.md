@@ -29,6 +29,8 @@ skimage==0.0
 [Baidu](https://pan.baidu.com/s/1Ap6fUxGO0OcIXTmDjPmOWg?pwd=4ca5), code: 4ca5
 [Google](https://drive.google.com/file/d/1z6ZD4L3Sx6vaOLbGg6yE3HWALYhjt7zp/view?usp=sharing)
 
+raw Lytro Dataset can be downloaded in [Google Drive](https://drive.google.com/file/d/1PipWdDykFnSknF-7KkjcL8IRZKWMSGr6/view?usp=sharing), note that additional lytro photos are taken, and you can use Lytro Desktop to decode the raw lytro photos.
+
 ## Model
 
 The pretrained model is already uploaded in repo, `./Model/LFN.pth`

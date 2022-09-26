@@ -30,22 +30,22 @@ Several image pairs in dataset are shown below:
 
 <table>
     <tr>
-        <td><center><img src="figure/378RFGT.png" width="660">Input (GT) in Training Dataset</center></td>
-        <td><center><img src="figure/378FFGT.png" width="660">Guidance (GT) in Training Dataset</center></td>
+        <td><center><img src="https://github.com/Jebearssica/DWGUN/tree/main/figure/378RFGT.png" width="660">Input (GT) in Training Dataset</center></td>
+        <td><center><img src="https://github.com/Jebearssica/DWGUN/tree/main/figure/378FFGT.png" width="660">Guidance (GT) in Training Dataset</center></td>
     </tr>
 </table>
 
 <table>
     <tr>
-        <td><center><img src="figure/24RFGT.png" width="660">Input (GT) in Testing Dataset </center></td>
-        <td><center><img src="figure/24FFGT.png" width="660">Guidance (GT) in Testing Dataset </center></td>
+        <td><center><img src="https://github.com/Jebearssica/DWGUN/tree/main/figure/24RFGT.png" width="660">Input (GT) in Testing Dataset </center></td>
+        <td><center><img src="https://github.com/Jebearssica/DWGUN/tree/main/figure/24FFGT.png" width="660">Guidance (GT) in Testing Dataset </center></td>
     </tr>
 </table>
 
 <table>
     <tr>
-        <td><center><img src="figure/15RFGT.png" width="660">Input (GT) in Additional Dataset </center></td>
-        <td><center><img src="figure/15FFGT.png" width="660">Guidance (GT) in Additional Dataset </center></td>
+        <td><center><img src="https://github.com/Jebearssica/DWGUN/tree/main/figure/15RFGT.png" width="660">Input (GT) in Additional Dataset </center></td>
+        <td><center><img src="https://github.com/Jebearssica/DWGUN/tree/main/figure/15FFGT.png" width="660">Guidance (GT) in Additional Dataset </center></td>
     </tr>
 </table>
 

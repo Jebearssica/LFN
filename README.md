@@ -26,26 +26,27 @@ skimage==0.0
 
 ## Dataset
 
-Several image pairs in dataset are shown below:
+The raw Lytro Dataset can be downloaded from Google Drive. You can use Lytro Desktop to refocus the raw lytro photos.
+Our dataset contains scenes with thin structures and rich textures (see below), which are difficult for refocused image upsampling. 
 
 <table>
     <tr>
-        <td><center><img src="https://github.com/Jebearssica/DWGUN/tree/main/figure/378RFGT.png" width="660">Input (GT) in Training Dataset</center></td>
-        <td><center><img src="https://github.com/Jebearssica/DWGUN/tree/main/figure/378FFGT.png" width="660">Guidance (GT) in Training Dataset</center></td>
+        <td><center><img src="figure/378RFGT.png" width="660">Input (GT) in Training Dataset</center></td>
+        <td><center><img src="figure/378FFGT.png" width="660">Guidance (GT) in Training Dataset</center></td>
     </tr>
 </table>
 
 <table>
     <tr>
-        <td><center><img src="https://github.com/Jebearssica/DWGUN/tree/main/figure/24RFGT.png" width="660">Input (GT) in Testing Dataset </center></td>
-        <td><center><img src="https://github.com/Jebearssica/DWGUN/tree/main/figure/24FFGT.png" width="660">Guidance (GT) in Testing Dataset </center></td>
+        <td><center><img src="figure/24RFGT.png" width="660">Input (GT) in Testing Dataset </center></td>
+        <td><center><img src="figure/24FFGT.png" width="660">Guidance (GT) in Testing Dataset </center></td>
     </tr>
 </table>
 
 <table>
     <tr>
-        <td><center><img src="https://github.com/Jebearssica/DWGUN/tree/main/figure/15RFGT.png" width="660">Input (GT) in Additional Dataset </center></td>
-        <td><center><img src="https://github.com/Jebearssica/DWGUN/tree/main/figure/15FFGT.png" width="660">Guidance (GT) in Additional Dataset </center></td>
+        <td><center><img src="figure/15RFGT.png" width="660">Input (GT) in Additional Dataset </center></td>
+        <td><center><img src="figure/15FFGT.png" width="660">Guidance (GT) in Additional Dataset </center></td>
     </tr>
 </table>
 

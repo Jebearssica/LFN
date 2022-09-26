@@ -26,8 +26,11 @@ skimage==0.0
 
 ## Dataset
 
-The raw Lytro Dataset can be downloaded from Google Drive. You can use Lytro Desktop to refocus the raw lytro photos.
-Our dataset contains scenes with thin structures and rich textures (see below), which are difficult for refocused image upsampling. 
+The raw Lytro Dataset can be downloaded from [Google Drive](https://drive.google.com/file/d/1PipWdDykFnSknF-7KkjcL8IRZKWMSGr6/view?usp=sharing). You can use Lytro Desktop to refocus the raw lytro photos.
+Our dataset contains scenes with thin structures and rich textures (see below), which are difficult for refocused image upsampling.
+
+[Baidu](https://pan.baidu.com/s/1Ap6fUxGO0OcIXTmDjPmOWg?pwd=4ca5), code: 4ca5
+[Google](https://drive.google.com/file/d/1z6ZD4L3Sx6vaOLbGg6yE3HWALYhjt7zp/view?usp=sharing)
 
 <table>
     <tr>
@@ -49,11 +52,6 @@ Our dataset contains scenes with thin structures and rich textures (see below), 
         <td><center><img src="figure/15FFGT.png" width="660">Guidance (GT) in Additional Dataset </center></td>
     </tr>
 </table>
-
-[Baidu](https://pan.baidu.com/s/1Ap6fUxGO0OcIXTmDjPmOWg?pwd=4ca5), code: 4ca5
-[Google](https://drive.google.com/file/d/1z6ZD4L3Sx6vaOLbGg6yE3HWALYhjt7zp/view?usp=sharing)
-
-raw Lytro Dataset can be downloaded in [Google Drive](https://drive.google.com/file/d/1PipWdDykFnSknF-7KkjcL8IRZKWMSGr6/view?usp=sharing), note that additional lytro photos are taken, and you can use Lytro Desktop to decode the raw lytro photos.
 
 ## Model
 

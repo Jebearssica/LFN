@@ -1,6 +1,6 @@
 # Joint-Upsampling-for-Refocusing-Light-Field-in-a-Hybrid-Imaging-System
 
-The official implementation of paper "Joint Upsampling for Refocusing Light Field in a Hybrid Imaging System"
+The official implementation of paper "Joint Upsampling for Refocusing Light Fields Derived with Hybrid Lenses". You can visit our paper in [link](https://ieeexplore.ieee.org/document/10064040)
 
 ## Environment introduction
 

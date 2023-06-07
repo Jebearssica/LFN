@@ -1,6 +1,6 @@
-# Joint-Upsampling-for-Refocusing-Light-Field-in-a-Hybrid-Imaging-System
+# Joint Upsampling for Refocusing Light Fields Derived With Hybrid Lenses
 
-The official implementation of paper "Joint Upsampling for Refocusing Light Fields Derived with Hybrid Lenses". You can visit our paper in [link](https://ieeexplore.ieee.org/document/10064040)
+The official implementation of paper "Joint Upsampling for Refocusing Light Fields Derived With Hybrid Lenses". You can visit our paper in [link](https://ieeexplore.ieee.org/document/10064040)
 
 ## Environment introduction
 
@@ -78,3 +78,17 @@ In `test.py`, you can use `testAllInOne` to test x2/x4/x8 for both shallow & dee
 ## Other
 
 If you have any question, please leave an issue.
+
+## Citation
+
+```bib
+@ARTICLE{10064040,
+  author={Yang, Yang and Wu, Lianxiong and Zeng, Lanling and Yan, Tao and Zhan, Yongzhao},
+  journal={IEEE Transactions on Instrumentation and Measurement}, 
+  title={Joint Upsampling for Refocusing Light Fields Derived With Hybrid Lenses}, 
+  year={2023},
+  volume={72},
+  number={},
+  pages={1-12},
+  doi={10.1109/TIM.2023.3253880}}
+```
